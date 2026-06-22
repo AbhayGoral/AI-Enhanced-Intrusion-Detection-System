@@ -277,13 +277,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## Contact & Support
 
-- **GitHub:** [@Siddhesh0389](https://github.com/Siddhesh0389)
-- **Project Link:** [AI-Enhanced-Intrusion-Detection-System](https://github.com/Siddhesh0389/AI-Enhanced-Intrusion-Detection-System)
 
----
 
-> ⭐ If you found this project helpful, please consider giving it a star on GitHub!
-
-<div align="center">Made with ❤️ by Siddhesh Dattatray Patil</div>
